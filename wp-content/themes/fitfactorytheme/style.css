@@ -11,3 +11,11 @@
  Tags:         woocommerce, e-commerce, responsive
  Text Domain:  fitfactory-domain
 */
+/* Header */
+#masthead.site-header {
+    padding-top: 1rem;
+}
+.site-header .custom-logo-link img {
+    max-width: 100px;
+    width: 48px;
+}
