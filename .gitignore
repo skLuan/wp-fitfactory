@@ -34,6 +34,11 @@ wp-config.php
 
 # htaccess
 /.htaccess
+.htaccess.bk
+
+# others
+/.private
+default.php
 
 # All plugins
 #
